@@ -1,0 +1,2 @@
+TorqueMax_Nm,VelocidadMax_rpm,PotenciaMecanicaMax_kW,PotenciaElectricaMax_kW,CorrienteDescargaMax_A,CorrienteRegenerativaMin_A,EnergiaConsumida_kWh,EnergiaRecuperada_kWh,EnergiaPerdida_kWh
+395,8000,150,163.04347826087,457.987298485589,-370.786516853933,1.07669955139631,0.231746293317286,0.117737731382244
